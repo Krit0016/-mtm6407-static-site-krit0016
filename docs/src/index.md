@@ -2,8 +2,8 @@
 home: true
 heroImage: https://images.pexels.com/photos/3150271/pexels-photo-3150271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
 tagline:  Welcome to the Endangered Species Site!
-actionText: Quick Start →
-actionLink: /guide/
+actionText: About US →
+actionLink: /about/
 features:
 - title: About Us
   details: Learn more about our mission and vision. Find out what drives us to raise awareness about endangered species and why conservation efforts are crucial for the future of our planet. Discover how you can get involved and make a difference.

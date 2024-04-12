@@ -13,3 +13,4 @@ sidebar: auto
 
 - Type: `string`
 - Default: `/`
+

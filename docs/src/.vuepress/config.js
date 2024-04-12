@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Vuepress Docs Boilerplate',
+  title: 'Endangered species',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -21,6 +21,7 @@ module.exports = {
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
 
+  
   /**
    * Theme configuration, here is the default theme configuration for VuePress.
    *
@@ -34,31 +35,35 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: 'About Us',
+        link: '/about/',
       },
       {
-        text: 'Config',
-        link: '/config/'
+        text: 'Endangered Species',
+        link: '/species/'
       },
       {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
+        text: 'Causes of Endangerment',
+        link: '/causes/'
+      },
+      {
+        text: 'Solutions to Endangerment',
+        link: '/solutions/'
       }
     ],
-    sidebar: {
-      '/guide/': [
-        {
-          title: 'Guide',
-          collapsable: false,
-          children: [
-            '',
-            'using-vue',
-          ]
-        }
-      ],
-    }
-  },
+    // sidebar: {
+    //   '/guide/': [
+    //     {
+    //       title: 'Guide',
+    //       collapsable: false,
+    //       children: [
+    //         '',
+    //         'using-vue',
+    //       ]
+    //     }
+    //   ]
+    // }
+  },  
 
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
