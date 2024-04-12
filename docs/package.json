@@ -1,13 +1,13 @@
 {
-  "name": "Welcome to the Endangered Species Site!",
+  "name": "Endangered Species Site!",
   "version": "0.0.1",
-  "description": "Explore the world of endangered species with us. From majestic tigers to delicate coral reefs, each species has its own story to tell. Discover their habitats, threats, and conservation efforts. ",
+  "description": " Welcome to the Endangered Species Site!",
   "main": "index.js",
   "authors": {
     "name": "Maisie",
     "email": "krit0016@algonquinlive.com"
   },
-  "repository": "https://github.com/Krit0016/mtm6407-static-site-krit0016/Welcome to the Endangered Species Site!",
+  "repository": "https://github.com/Krit0016/mtm6407-static-site-krit0016/Endangered Species Site!",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
