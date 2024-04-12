@@ -1,0 +1,19 @@
+{
+  "name": " .",
+  "version": "0.0.1",
+  "description": "Endangered species",
+  "main": "index.js",
+  "authors": {
+    "name": "maisie",
+    "email": "krit0016@algonquinlive.com"
+  },
+  "repository": "https://github.com/Krit0016/mtm6407-static-site-krit0016/ .",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
