@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: Explore the world of endangered species with us. From majestic tigers to delicate coral reefs, each species has its own story to tell. Discover their habitats, threats, and conservation efforts. 
+tagline:  Welcome to the Endangered Species Site!
 actionText: Quick Start →
 actionLink: /guide/
 features:
